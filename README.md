@@ -45,7 +45,7 @@ Las mediciones PWM confirmaron periodos de 20 ms (50 Hz) y anchos de pulso:
 
 2.4 ms → 180°
 
-📊 Resultados de Pruebas
+Resultados de Pruebas
 🔹 Comunicación SPI
 
 Capturas realizadas en Logic2 mostraron sincronización correcta entre SCK, MOSI, MISO y CSN.
